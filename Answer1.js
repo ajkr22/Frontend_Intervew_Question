@@ -14,13 +14,16 @@ Q.Print the output?
     console.log(4);
 })();
 
-Q.Write a program to compare ?
+Q.What is the output and Why ? 
+Q.Write a program to compare these obejects?
+    
 {name : 'gaurav',age:22} === {name: 'gaurav',age:22}
+
 
 function shallowEqual(object1, object2) {
   
 }
 
-What is the output?
+Q.What is the output?
 10 + "1" - 1
 =>100
