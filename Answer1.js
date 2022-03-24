@@ -27,3 +27,5 @@ function shallowEqual(object1, object2) {
 Q.What is the output?
 10 + "1" - 1
 =>100
+
+When its addition js can add string but when its subtraction the strings can not be subtracted so the strings get converted to number.
